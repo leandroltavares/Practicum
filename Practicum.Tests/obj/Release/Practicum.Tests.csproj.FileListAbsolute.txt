@@ -1,0 +1,7 @@
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\bin\Release\Practicum.Tests.dll
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\bin\Release\Practicum.Tests.pdb
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\bin\Release\Practicum.Core.dll
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\bin\Release\Practicum.Core.pdb
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\obj\Release\Practicum.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\obj\Release\Practicum.Tests.dll
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Tests\obj\Release\Practicum.Tests.pdb

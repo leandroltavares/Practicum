@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum.Core", "Practicum.Core\Practicum.Core.csproj", "{106B69B3-358F-411D-B91A-2A88FAB1FF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum.Tests", "Practicum.Tests\Practicum.Tests.csproj", "{C3C2C843-8C8C-44C7-BBB3-162C9907A1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum.Console", "Practicum.Console\Practicum.Console.csproj", "{2052BC6E-E5FE-4FD0-BFB9-3C7AB63A6CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106B69B3-358F-411D-B91A-2A88FAB1FF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106B69B3-358F-411D-B91A-2A88FAB1FF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106B69B3-358F-411D-B91A-2A88FAB1FF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106B69B3-358F-411D-B91A-2A88FAB1FF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C2C843-8C8C-44C7-BBB3-162C9907A1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C2C843-8C8C-44C7-BBB3-162C9907A1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C2C843-8C8C-44C7-BBB3-162C9907A1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C2C843-8C8C-44C7-BBB3-162C9907A1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2052BC6E-E5FE-4FD0-BFB9-3C7AB63A6CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2052BC6E-E5FE-4FD0-BFB9-3C7AB63A6CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2052BC6E-E5FE-4FD0-BFB9-3C7AB63A6CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2052BC6E-E5FE-4FD0-BFB9-3C7AB63A6CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

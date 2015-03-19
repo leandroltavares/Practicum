@@ -1,0 +1,7 @@
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\bin\Release\Practicum.Console.exe.config
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\bin\Release\Practicum.Console.exe
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\bin\Release\Practicum.Console.pdb
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\bin\Release\Practicum.Core.dll
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\bin\Release\Practicum.Core.pdb
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\obj\Release\Practicum.Console.exe
+C:\Projetos\Grosvenor\Practicum\Practicum\Practicum.Console\obj\Release\Practicum.Console.pdb

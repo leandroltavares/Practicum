@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f2a1844d-c716-461d-aefd-5e52fb0a7245" name="loli@PCSOR331 2015-03-19 11:56:32" runUser="GFT\loli" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="c2ec1cd6-a7ec-479d-8635-19fbc70c8588">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="loli_PCSOR331 2015-03-19 11_56_32" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2015-03-19T11:56:32.8108064-03:00" queuing="2015-03-19T11:56:33.5138395-03:00" start="2015-03-19T11:56:33.5763515-03:00" finish="2015-03-19T11:56:33.8888074-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="When_IsNightAndOrder1234_Then_ReturnSteakPotatoWineCake" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="92833b33-4625-5b93-9953-8d0d25daae87">
+      <Execution id="2d3184b3-0c1d-4d09-8ec4-66063d04c8c0" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateNightOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsNightAndOrder1234_Then_ReturnSteakPotatoWineCake" />
+    </UnitTest>
+    <UnitTest name="When_IsMorningAndOrder12333_Then_ReturnEggsToastCoffee3Times" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="10dd53ca-9e78-da28-ef1b-539892b4960e">
+      <Execution id="95a149a1-9b0a-41a6-989b-48d9d421bb76" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateMorningOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsMorningAndOrder12333_Then_ReturnEggsToastCoffee3Times" />
+    </UnitTest>
+    <UnitTest name="When_IsMorningAndOrder12233_Then_ReturnEggsToastError" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="22a97ed2-2d43-78e2-82ea-b10c4daae364">
+      <Execution id="dda31b6a-2887-49bf-8ccc-aa54bef78073" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateMorningOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsMorningAndOrder12233_Then_ReturnEggsToastError" />
+    </UnitTest>
+    <UnitTest name="When_IsNightAndOrder1224_Then_ReturnSteakPotatoTwoTimesCake" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="ab270f34-a493-d13f-851f-69ce96fb2947">
+      <Execution id="0181e2d4-f8ba-44b5-a412-42dbe57b03b4" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateNightOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsNightAndOrder1224_Then_ReturnSteakPotatoTwoTimesCake" />
+    </UnitTest>
+    <UnitTest name="When_IsNightAndOrder122335_Then_ReturnSteakPotatoTwoTimesWineError" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="715104a3-3fe6-768f-9af2-571915a60226">
+      <Execution id="88947585-cf71-4628-803b-c7e3c28c9701" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateNightOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsNightAndOrder122335_Then_ReturnSteakPotatoTwoTimesWineError" />
+    </UnitTest>
+    <UnitTest name="When_IsMorningAndOrder213_Then_ReturnEggsToastCoffee" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="f391e68d-dd1a-2a64-292f-759ede4a5235">
+      <Execution id="b150ab72-9d1c-4be1-a6fc-8aa7347e4055" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateMorningOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsMorningAndOrder213_Then_ReturnEggsToastCoffee" />
+    </UnitTest>
+    <UnitTest name="When_IsMorningAndOrder123_Then_ReturnEggsToastCoffee" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="80b8fa93-90c8-8b31-b779-8749399091bc">
+      <Execution id="80aea46c-1ca1-4b0e-be05-077effec9a12" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateMorningOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsMorningAndOrder123_Then_ReturnEggsToastCoffee" />
+    </UnitTest>
+    <UnitTest name="When_IsNightAndOrder11235_Then_ReturnSteakError" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="fc8eb368-87cc-2fd6-c090-95f1e78b6c57">
+      <Execution id="968f6820-e32b-4226-8cca-b3cd11339b6d" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateNightOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsNightAndOrder11235_Then_ReturnSteakError" />
+    </UnitTest>
+    <UnitTest name="When_IsNigthAndOrder1235_Then_ReturnSteakPotatoWineError" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="f28a5a84-a00b-c1ce-dd19-ad6ece36a15a">
+      <Execution id="e9184253-5f68-4a0d-80b6-0dd098560187" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateNightOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsNigthAndOrder1235_Then_ReturnSteakPotatoWineError" />
+    </UnitTest>
+    <UnitTest name="When_IsMorningAndOrder1234_Then_ReturnEggsToastCoffeeError" storage="c:\projetos\grosvenor\practicum\practicum\practicum.tests\bin\release\practicum.tests.dll" id="18afd181-2bdd-27bb-496e-d56c72e4c0bd">
+      <Execution id="6c26d341-7d09-4846-b82d-bd815086deec" />
+      <TestMethod codeBase="C:/Projetos/Grosvenor/Practicum/Practicum/Practicum.Tests/bin/Release/Practicum.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Tests.InOrderToValidateMorningOrders, Practicum.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="When_IsMorningAndOrder1234_Then_ReturnEggsToastCoffeeError" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22a97ed2-2d43-78e2-82ea-b10c4daae364" executionId="dda31b6a-2887-49bf-8ccc-aa54bef78073" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="80b8fa93-90c8-8b31-b779-8749399091bc" executionId="80aea46c-1ca1-4b0e-be05-077effec9a12" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10dd53ca-9e78-da28-ef1b-539892b4960e" executionId="95a149a1-9b0a-41a6-989b-48d9d421bb76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18afd181-2bdd-27bb-496e-d56c72e4c0bd" executionId="6c26d341-7d09-4846-b82d-bd815086deec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f391e68d-dd1a-2a64-292f-759ede4a5235" executionId="b150ab72-9d1c-4be1-a6fc-8aa7347e4055" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc8eb368-87cc-2fd6-c090-95f1e78b6c57" executionId="968f6820-e32b-4226-8cca-b3cd11339b6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="715104a3-3fe6-768f-9af2-571915a60226" executionId="88947585-cf71-4628-803b-c7e3c28c9701" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab270f34-a493-d13f-851f-69ce96fb2947" executionId="0181e2d4-f8ba-44b5-a412-42dbe57b03b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92833b33-4625-5b93-9953-8d0d25daae87" executionId="2d3184b3-0c1d-4d09-8ec4-66063d04c8c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f28a5a84-a00b-c1ce-dd19-ad6ece36a15a" executionId="e9184253-5f68-4a0d-80b6-0dd098560187" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dda31b6a-2887-49bf-8ccc-aa54bef78073" testId="22a97ed2-2d43-78e2-82ea-b10c4daae364" testName="When_IsMorningAndOrder12233_Then_ReturnEggsToastError" computerName="PCSOR331" duration="00:00:00.0353509" startTime="2015-03-19T11:56:33.6075935-03:00" endTime="2015-03-19T11:56:33.8419214-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dda31b6a-2887-49bf-8ccc-aa54bef78073">
+    </UnitTestResult>
+    <UnitTestResult executionId="80aea46c-1ca1-4b0e-be05-077effec9a12" testId="80b8fa93-90c8-8b31-b779-8749399091bc" testName="When_IsMorningAndOrder123_Then_ReturnEggsToastCoffee" computerName="PCSOR331" duration="00:00:00.0001735" startTime="2015-03-19T11:56:33.8419214-03:00" endTime="2015-03-19T11:56:33.8419214-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="80aea46c-1ca1-4b0e-be05-077effec9a12">
+    </UnitTestResult>
+    <UnitTestResult executionId="95a149a1-9b0a-41a6-989b-48d9d421bb76" testId="10dd53ca-9e78-da28-ef1b-539892b4960e" testName="When_IsMorningAndOrder12333_Then_ReturnEggsToastCoffee3Times" computerName="PCSOR331" duration="00:00:00.0001475" startTime="2015-03-19T11:56:33.8419214-03:00" endTime="2015-03-19T11:56:33.8419214-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="95a149a1-9b0a-41a6-989b-48d9d421bb76">
+    </UnitTestResult>
+    <UnitTestResult executionId="6c26d341-7d09-4846-b82d-bd815086deec" testId="18afd181-2bdd-27bb-496e-d56c72e4c0bd" testName="When_IsMorningAndOrder1234_Then_ReturnEggsToastCoffeeError" computerName="PCSOR331" duration="00:00:00.0001523" startTime="2015-03-19T11:56:33.8419214-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c26d341-7d09-4846-b82d-bd815086deec">
+    </UnitTestResult>
+    <UnitTestResult executionId="b150ab72-9d1c-4be1-a6fc-8aa7347e4055" testId="f391e68d-dd1a-2a64-292f-759ede4a5235" testName="When_IsMorningAndOrder213_Then_ReturnEggsToastCoffee" computerName="PCSOR331" duration="00:00:00.0001417" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b150ab72-9d1c-4be1-a6fc-8aa7347e4055">
+    </UnitTestResult>
+    <UnitTestResult executionId="968f6820-e32b-4226-8cca-b3cd11339b6d" testId="fc8eb368-87cc-2fd6-c090-95f1e78b6c57" testName="When_IsNightAndOrder11235_Then_ReturnSteakError" computerName="PCSOR331" duration="00:00:00.0004358" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="968f6820-e32b-4226-8cca-b3cd11339b6d">
+    </UnitTestResult>
+    <UnitTestResult executionId="88947585-cf71-4628-803b-c7e3c28c9701" testId="715104a3-3fe6-768f-9af2-571915a60226" testName="When_IsNightAndOrder122335_Then_ReturnSteakPotatoTwoTimesWineError" computerName="PCSOR331" duration="00:00:00.0001417" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="88947585-cf71-4628-803b-c7e3c28c9701">
+    </UnitTestResult>
+    <UnitTestResult executionId="0181e2d4-f8ba-44b5-a412-42dbe57b03b4" testId="ab270f34-a493-d13f-851f-69ce96fb2947" testName="When_IsNightAndOrder1224_Then_ReturnSteakPotatoTwoTimesCake" computerName="PCSOR331" duration="00:00:00.0001584" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0181e2d4-f8ba-44b5-a412-42dbe57b03b4">
+    </UnitTestResult>
+    <UnitTestResult executionId="2d3184b3-0c1d-4d09-8ec4-66063d04c8c0" testId="92833b33-4625-5b93-9953-8d0d25daae87" testName="When_IsNightAndOrder1234_Then_ReturnSteakPotatoWineCake" computerName="PCSOR331" duration="00:00:00.0001549" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8575445-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d3184b3-0c1d-4d09-8ec4-66063d04c8c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="e9184253-5f68-4a0d-80b6-0dd098560187" testId="f28a5a84-a00b-c1ce-dd19-ad6ece36a15a" testName="When_IsNigthAndOrder1235_Then_ReturnSteakPotatoWineError" computerName="PCSOR331" duration="00:00:00.0001857" startTime="2015-03-19T11:56:33.8575445-03:00" endTime="2015-03-19T11:56:33.8731676-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9184253-5f68-4a0d-80b6-0dd098560187">
+    </UnitTestResult>
+  </Results>
+</TestRun>
